@@ -88,7 +88,7 @@ const campingHall: CampsiteConfig = {
         text: "Die historische Altstadt von Hall erreichst du in wenigen Gehminuten, Innsbruck in rund zehn Autominuten.",
         image: {
           src: `${IMG}/gallery-ca72a4f99a.webp`,
-          alt: "Hall in Tirol vor dem Karwendel — Blick über Stadt und Berge",
+          alt: "Blick vom Münzerturm über die Haller Altstadt mit Karwendel im Hintergrund",
         },
       },
     ],
