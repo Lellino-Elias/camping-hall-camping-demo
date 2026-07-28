@@ -164,10 +164,10 @@ const campingHall: CampsiteConfig = {
   },
 
   kontakt: {
-    tel: "+43 5223 58 55",
-    telHref: "tel:+4352235855",
+    tel: "",
+    telHref: "",
     mail: "info@camping-hall.at",
-    adresse: "Scheidensteinstraße 24 · 6060 Hall in Tirol · Tirol",
+    adresse: "6060 Hall in Tirol · Tirol",
     coords: { lat: 47.284724, lng: 11.496112 },
   },
 
